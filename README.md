@@ -1,5 +1,5 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Eneri Junior and my nickname is "jrcosta"!
+# Olá, me chamo Eneri! 
+## Bem vindo ao meu perfil GitHub 👋
 
 ## Ferramentas e Tecnologias
 <div style="display: flex; justify-content: space-around;">
