@@ -14,4 +14,6 @@
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img loading="lazy" src=".\svg\robot-framework-logo.png" width="40" height="40"/>
+    <img loading="lazy" src=".\svg\logo-cypress.png" width="40" height="40">
 </div>
