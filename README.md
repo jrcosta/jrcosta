@@ -1,6 +1,6 @@
 # Olá, me chamo Eneri! 
 ## Bem vindo ao meu perfil GitHub 👋
-### Atualmente trabalho como Desenvolvedor de Software na [**Softplan Planejamento e Sistemas**](https://www.softplan.com.br/), sou apaixonado por tecnologia e inovação, já atuei como Analista de Suporte e Analista de Qualidade, e estou focado em DevOps, Automação de Testes e InnerSource.
+### Atualmente trabalho como Quality Assurance Engineer sou apaixonado por tecnologia e inovação, já atuei como Analista de Suporte, e estou focado em DevOps, Automação de Testes e InnerSource.
 
 ### Acredito que a tecnologia é uma ferramenta poderosa para transformar o mundo e a vida das pessoas, e que a inovação é a chave para o sucesso, por isso estou sempre em busca de novos conhecimentos e desafios.
 
