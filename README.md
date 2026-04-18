@@ -89,11 +89,11 @@ Ferramentas exploradas:
 
 ## Estatísticas GitHub
 
-<p align="center">
+<p align="left">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=enerijr&show_icons=true&theme=dark"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enerijr&layout=compact&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrcosta&layout=compact&theme=dark"/>
 
 </p>
 
@@ -101,7 +101,7 @@ Ferramentas exploradas:
 
 ## Contatos
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/enerijr/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
